@@ -6,7 +6,7 @@ function HomePage() {
   return (
     <div>
       <h1>Welcome to Next.js!</h1>
-      <Button>Merhaba</Button>
+      <Button>MerhSSSSSSSSSSSSSSSSSSSaba</Button>
     </div>
   )
 }
